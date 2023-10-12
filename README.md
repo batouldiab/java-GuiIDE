@@ -18,7 +18,7 @@ Follow these steps to set up and run java-GuiIDE on your local machine:
 1. **Clone the Repository:**
    ```bash
    git clone [https://github.com/batouldiab/java-GuiIDE](https://github.com/batouldiab/java-GuiIDE)
-   cd java-GuiIDE
+   cd java-GuiIDE/src
    ```
 2. **Compile and Run:**
    ```bash
