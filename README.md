@@ -36,6 +36,3 @@ Follow these steps to set up and run java-GuiIDE on your local machine:
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or create a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
